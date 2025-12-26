@@ -4,7 +4,7 @@
 
 ---
 
-### ⭐ Project Overview
+### ⭐ Project Overview 
 This project involves a comprehensive analysis of road accident data from 2021 to 2023. Using **Microsoft Excel**, I transformed a large-scale dataset into a functional Business Intelligence tool that allows stakeholders to filter casualties by vehicle type, road conditions, and geographic location.
 
 ### 🛠️ Technical Implementation
