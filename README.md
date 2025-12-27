@@ -7,6 +7,14 @@
 ### ⭐ Project Overview 
 This project involves a comprehensive analysis of road accident data from 2021 to 2023. Using **Microsoft Excel**, I transformed a large-scale dataset into a functional Business Intelligence tool that allows stakeholders to filter casualties by vehicle type, road conditions, and geographic location.
 
+---
+
+### 🌐 Data Source & Context
+The analysis is based on historical accident data trends. For broader context on global road safety statistics and reporting standards, this project references:
+* **Source:** [Wikipedia - Road Traffic Safety](https://en.wikipedia.org/wiki/Road_traffic_safety)
+  
+---
+
 ### 🛠️ Technical Implementation
 - **Data Engineering:** Cleaned and normalized a dataset of **417,883 records**, ensuring consistency in date formats and categorical variables.
 - **Analytical Logic:** Leveraged **Pivot Tables** and **Advanced Formulas** to calculate year-over-year (CY vs. PY) performance.
